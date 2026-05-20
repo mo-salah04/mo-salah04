@@ -241,13 +241,13 @@ A C program comparing standard matrix multiplication with pthread-based parallel
 - **Explainable AI: Scene Classification and Grad-CAM Visualization** — Coursera  
 - **Diabetes Disease Detection with XG-Boost and Neural Networks** — Coursera  
 - **Java SE: Programming I**  
-- **IELTS Academic: Overall Band [6.5]**
+- **IELTS Academic: Overall Band 6.5**
 
 ---
 
 ## 🌍 English Proficiency
 
-- **IELTS Academic** — Overall Band **[6.5]**
+- **IELTS Academic** — Overall Band **6.5**
 
 ---
 
