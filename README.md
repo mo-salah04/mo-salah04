@@ -231,6 +231,7 @@ A C program comparing standard matrix multiplication with pthread-based parallel
 <img src="https://img.shields.io/badge/Coursera-Explainable%20AI-0056D2?style=for-the-badge&logo=coursera&logoColor=white" />
 <img src="https://img.shields.io/badge/Coursera-XGBoost%20%26%20Neural%20Networks-0056D2?style=for-the-badge&logo=coursera&logoColor=white" />
 <img src="https://img.shields.io/badge/Oracle-Java%20SE%20Programming-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/IELTS-Academic-7A00FF?style=for-the-badge" />
 
 </div>
 
@@ -239,26 +240,14 @@ A C program comparing standard matrix multiplication with pthread-based parallel
 - **Introduction to Retrieval Augmented Generation (RAG)** — Duke University  
 - **Explainable AI: Scene Classification and Grad-CAM Visualization** — Coursera  
 - **Diabetes Disease Detection with XG-Boost and Neural Networks** — Coursera  
-- **Java SE: Programming I**
+- **Java SE: Programming I**  
+- **IELTS Academic: Overall Band [6.5]**
 
 ---
 
-## 📊 GitHub Statistics
+## 🌍 English Proficiency
 
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mo-salah04&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mo-salah04&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-salah04&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+- **IELTS Academic** — Overall Band **[Your Score]**
 
 ---
 
