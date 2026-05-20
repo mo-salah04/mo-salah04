@@ -247,7 +247,7 @@ A C program comparing standard matrix multiplication with pthread-based parallel
 
 ## 🌍 English Proficiency
 
-- **IELTS Academic** — Overall Band **[Your Score]**
+- **IELTS Academic** — Overall Band **[6.5]**
 
 ---
 
