@@ -254,12 +254,12 @@ A C program comparing standard matrix multiplication with pthread-based parallel
 ## 🧠 What I Like Working On
 
 ```text
-AI Projects              ███████████████████░░
-Explainable AI           ██████████████████░░░
-Embedded Systems         █████████████████░░░░
-Databases                ████████████████░░░░░
-Networking               ███████████████░░░░░░
-Web Development          ██████████████░░░░░░░
+AI Projects           
+Explainable AI           
+Embedded Systems       
+Databases               
+Networking              
+Web Development          
 ```
 
 ---
